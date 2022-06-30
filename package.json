@@ -3,7 +3,7 @@
   "version": "3.0.16",
   "description": "Vue made blog system",
   "author": "Dimitri Shepherd (https://dimitrishepherd.com)",
-  "engines":{
+  "engines": {
     "node": "16.x"
   },
   "keywords": [
